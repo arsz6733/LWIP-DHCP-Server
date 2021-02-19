@@ -3,7 +3,8 @@ Vanilla version of ESP32-idf DHCP server
 
 It's a minimal version and doesn't include any esp32 header and doesn't need RTOS to run
 
-Single client without poll and release renew feature
+Single client without poll and release, renew feature
+
 
 
 
